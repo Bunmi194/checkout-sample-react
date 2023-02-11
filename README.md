@@ -1,5 +1,6 @@
-# FoodApp 
+# FoodApp - Checkout Sample Page with React
 
+## visit- https://checkout-react-sample.netlify.app/
 ## Project setup
 
 cd into project directory and run:
